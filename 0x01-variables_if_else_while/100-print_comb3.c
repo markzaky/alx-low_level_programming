@@ -10,8 +10,11 @@ int main(void)
 
 {
 	int c = 0;
+
 	int f_d;
+
 	int l_d;
+
 	while (c <= 99)
 	{
 		f_d = (c / 10 + '0');
