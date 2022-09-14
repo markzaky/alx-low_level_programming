@@ -1,16 +1,16 @@
 #include "main.h"
 /**
  * main-program that prints '_putcha' on the screen
- * return:0
+ * Return:0
  */
 
 int main(void)
 {
 	
-	char putchar [8]= {'_','p','u','t','c','h','a','r'};
+	char putchar [8]= {'_', 'p', 'u', 't', 'c', 'h', 'a', 'r'};
 	
 	unsigned int i;
-	for (i=0; i < sizeof(putchar); i++)
+	for (i = 0; i < sizeof(putchar); i++)
 	{
 		
 		_putchar(putchar[i]);
