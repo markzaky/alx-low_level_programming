@@ -7,7 +7,7 @@
  * Return: the legth of string c
  */
 
-int _strlen(char *s);
+int _strlen(char *s)
 {
 int i = 0;
 while (s[i])
