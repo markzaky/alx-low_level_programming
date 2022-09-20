@@ -2,7 +2,7 @@
 
 /**
  * _strlen -a function that returns the lengt of a string
- * @c: pointer to the string varriable
+ * @s: pointer to the string varriable
  *
  * Return: the legth of string c
  */
